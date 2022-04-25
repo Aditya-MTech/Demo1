@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hello Team v1.0
+=======
+Hello Team ver1
+>>>>>>> f8973eb7ee25f47fb03b47d8ce465be7d26e52df
+Hello Team Ver 2
